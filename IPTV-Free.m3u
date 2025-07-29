@@ -439,7 +439,7 @@ http://45.159.74.22/MujskoeKino/tracks-v1a1/mono.m3u8
 http://31.210.208.171:8080/muzhskoekino/index.m3u8?token=+W2MSER
 http://80.245.95.243:8888/play/a011/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📽️ Кинозал",Кинопремьера HD
-http://api.peers.tv/timeshift/premera/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTI3ODY5ODAsImlhdCI6MTc1MjcwMDU4MCwiY2lkIjo2LCJ1aWQiOjkzMDY0ODc0NSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.pL7GuspqfEb262_cADxHZuU2-J-4MJbmmrHYhBAkyFI&offset=3
+http://api.peers.tv/timeshift/premera/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTM4NTk3ODAsImlhdCI6MTc1Mzc3MzM4MCwiY2lkIjo2LCJ1aWQiOjkzMzIwMzk0NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.3yFtRE7ZR9C3fZPnGfSM6Fetvgde3r-xefVLlKcQy2Y&offset=3
 #EXTINF:-1 group-title="📽️ Кинозал", Кинопремьера HD
 http://178.124.179.122:8088/Kinopremiera/index.m3u8
 http://45.159.74.22/Kinopremera/tracks-v1a1/mono.m3u8
