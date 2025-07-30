@@ -575,48 +575,38 @@ https://fl1001.bozztv.com/ushba45/index.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_2
 #EXTINF:-1 group-title="📽️ Кинозал", Suspense
 http://77.235.1.19:8000/play/a051/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="Yosso TV Oblivion" tvg-logo="" group-title="📽️ Кинозал" catchup="flussonic" catchup-days="3",Yosso TV Oblivion
-#EXTGRP:📽️ Кинозал
-http://vod.stb.tvime.ru/Yosso_TV_Oblivion/video.m3u8?token=g4F645vc89fd
-#EXTINF:0 tvg-id="" tvg-name="Yosso TV New Кино" tvg-logo="" group-title="📽️ Кинозал" catchup="flussonic" catchup-days="3",Yosso TV New Кино
-#EXTGRP:📽️ Кинозал
-http://vod.stb.tvime.ru/Yosso_TV_NEW_kino/video.m3u8?token=g4F645vc89fd
-#EXTINF:0 tvg-id="" tvg-name="Yosso TV BEST 60fps" tvg-logo="" group-title="📽️ Кинозал" catchup="flussonic" catchup-days="3",Yosso TV BEST 60fps
-#EXTGRP:📽️ Кинозал
-http://vod.stb.tvime.ru/Yosso-TV_BEST_60_FPS/video.m3u8?token=g4F645vc89fd
-#EXTINF:0 tvg-id="" tvg-name="Yosso TV BEST" tvg-logo="" group-title="📽️ Кинозал" catchup="flussonic" catchup-days="3",Yosso TV BEST
-#EXTGRP:📽️ Кинозал
-http://vod.stb.tvime.ru/Yosso_TV_BEST/video.m3u8?token=g4F645vc89fd
-#EXTINF:0 tvg-id="" tvg-name="Yosso TV Netflix" tvg-logo="" group-title="📽️ Кинозал" catchup="flussonic" catchup-days="3",Yosso TV Netflix
-#EXTGRP:📽️ Кинозал
-http://vod.stb.tvime.ru/Yosso_TV_Netflix/video.m3u8?token=g4F645vc89fd
-#EXTINF:0 tvg-id="" tvg-name="Yosso TV Grand" tvg-logo="" group-title="📽️ Кинозал" catchup="flussonic" catchup-days="3",Yosso TV Grand
-#EXTGRP:📽️ Кинозал
-http://vod.stb.tvime.ru/Yosso_TV_Grand/video.m3u8?token=g4F645vc89fd
-#EXTINF:0 tvg-id="" tvg-name="Yosso TV Thriller" tvg-logo="" group-title="📽️ Кинозал" catchup="flussonic" catchup-days="3",Yosso TV Thriller
-#EXTGRP:📽️ Кинозал
-http://vod.stb.tvime.ru/Yosso_TV_Thriller/video.m3u8?token=g4F645vc89fd
-#EXTINF:0 tvg-id="" tvg-name="Yosso TV Adventure" tvg-logo="" group-title="📽️ Кинозал" catchup="flussonic" catchup-days="3",Yosso TV Adventure
-#EXTGRP:📽️ Кинозал
-http://vod.stb.tvime.ru/Yosso_TV_Adventure/video.m3u8?token=g4F645vc89fd
-#EXTINF:0 tvg-id="" tvg-name="Yosso TV Забавное" tvg-logo="" group-title="📽️ Кинозал" catchup="flussonic" catchup-days="3",Yosso TV Забавное
-#EXTGRP:📽️ Кинозал
-http://vod.stb.tvime.ru/Yosso_TV_Zabavnoe/video.m3u8?token=g4F645vc89fd
-#EXTINF:0 tvg-id="" tvg-name="Yosso TV Трагичное" tvg-logo="" group-title="📽️ Кинозал" catchup="flussonic" catchup-days="3",Yosso TV Трагичное
-#EXTGRP:📽️ Кинозал
-http://vod.stb.tvime.ru/Yosso_TV_Tragichnoe/video.m3u8?token=g4F645vc89fd
-#EXTINF:0 tvg-id="" tvg-name="Yosso TV VHS" tvg-logo="" group-title="📽️ Кинозал" catchup="flussonic" catchup-days="3",Yosso TV VHS
-#EXTGRP:📽️ Кинозал
-http://vod.stb.tvime.ru/Yosso_TV_VHS/video.m3u8?token=g4F645vc89fd
-#EXTINF:0 tvg-id="" tvg-name="Yosso TV Adrenaline" tvg-logo="" group-title="📽️ Кинозал" catchup="flussonic" catchup-days="3",Yosso TV Adrenaline
-#EXTGRP:📽️ Кинозал
-http://vod.stb.tvime.ru/Yosso_TV_Adrenaline/video.m3u8?token=g4F645vc89fd
-#EXTINF:0 tvg-id="" tvg-name="Yosso TV Мелодрама" tvg-logo="" group-title="📽️ Кинозал" catchup="flussonic" catchup-days="3",Yosso TV Мелодрама
-#EXTGRP:📽️ Кинозал
-http://vod.stb.tvime.ru/Yosso_TV_Melodramma/video.m3u8?token=g4F645vc89fd
-#EXTINF:0 tvg-id="" tvg-name="Yosso TV Ковбойское" tvg-logo="" group-title="📽️ Кинозал" catchup="flussonic" catchup-days="3",Yosso TV Ковбойское
-#EXTGRP:📽️ Кинозал
-http://vod.stb.tvime.ru/Yosso_TV_kovboiskoe/video.m3u8?token=g4F645vc89fd
+#EXTINF:-1 group-title="📽️ Кинозал",BCU Action HD
+http://178.217.72.66:8080/BCUActionHD/index.m3u8
+#EXTINF:-1 group-title="📽️ Кинозал",BCU Catastrophe HD
+http://178.217.72.66:8080/BCUCatastropheHD/index.m3u8
+#EXTINF:-1 group-title="📽️ Кинозал",BCU Comedy HD
+http://178.217.72.66:8080/BCUComedyHD/index.m3u8
+#EXTINF:-1 group-title="📽️ Кинозал",BCU Fantastic HD
+http://178.217.72.66:8080/BCUFantasticHD/index.m3u8
+#EXTINF:-1 group-title="📽️ Кинозал",BCU Romantic HD
+http://178.217.72.66:8080/BCURomanticHD/index.m3u8
+#EXTINF:-1 group-title="📽️ Кинозал",BCU Stars HD
+http://178.217.72.66:8080/BCUStarsHD/index.m3u8
+#EXTINF:-1 group-title="📽️ Кинозал",BCU VHS HD
+http://178.217.72.66:8080/BCUVHSHD/index.m3u8
+#EXTINF:-1 group-title="📽️ Кинозал",BCU Kinorating HD
+http://178.217.72.66:8080/BCUKinoratingHD/index.m3u8
+#EXTINF:-1 group-title="📽️ Кинозал",CineMan Action HD
+http://178.217.72.66:8080/CineMan_Action/index.m3u8
+#EXTINF:-1 group-title="📽️ Кинозал",CineMan Comedy HD
+http://178.217.72.66:8080/CineMan_Comedy/index.m3u8
+#EXTINF:-1 group-title="📽️ Кинозал",CineMan HD
+http://178.217.72.66:8080/CineMan/index.m3u8
+#EXTINF:-1 group-title="📽️ Кинозал",CineMan Marvel HD
+http://178.217.72.66:8080/CineMan_Marvel/index.m3u8
+#EXTINF:-1 group-title="📽️ Кинозал",CineMan Melodrama
+http://178.217.72.66:8080/CineMan_Melodrama/index.m3u8
+#EXTINF:-1 group-title="📽️ Кинозал",CineMan Thriller HD
+http://178.217.72.66:8080/CineMan_Thriller/index.m3u8
+#EXTINF:-1 group-title="📽️ Кинозал",CineMan Top HD
+http://178.217.72.66:8080/CineMan_Top/index.m3u8
+#EXTINF:-1 group-title="📽️ Кинозал",CineMan VHS HD
+http://178.217.72.66:8080/CineMan_VHS/index.m3u8
 
 
 
