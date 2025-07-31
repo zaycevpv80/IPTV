@@ -166,9 +166,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Общероссийские" ,Россия 24
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia-24-pl7" group-title="📺 Общероссийские", Россия 24 (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24_7/variant.m3u8
 
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Общероссийские",Че
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
@@ -420,13 +417,19 @@ http://dmi3y-tv.ru/hls/CH_KOSHMAR.m3u8
 http://hls.goodgame.ru:8080/hls/204709.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Сити Эдем — Киномистика 
 https://autopilot.catcast.tv/content/40783/index.m3u8?password=promolive
+#EXTINF:-1 group-title="📽️ Кинозал", Киноужас HD
+http://185.26.157.3:8080/live/kinouzhas/mono.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Киноужас
 http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
 http://178.212.71.253:8000/play/133/index.m3u8
 https://mhd128.iptv2022.com/p/N9EbtrX3QxchfuCz2GQ5SA,1752181208/streaming/kinoujas/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="📽️ Кинозал", Кинохит HD
+http://77.235.1.19:8000/play/a04f/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Кинохит
 http://45.159.74.22:80/Kinokhit/tracks-v1a1/mono.m3u8
 http://158.101.222.193:88/georgia_play.php?id=kinohit
+#EXTINF:-1 group-title="📽️ Кинозал", Киномикс HD
+http://77.235.1.19:8000/play/a05k/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Киномикс
 http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
 http://158.101.222.193:88/georgia_play.php?id=kinomiks
@@ -441,11 +444,17 @@ http://80.245.95.243:8888/play/a011/index.m3u8
 http://178.124.179.122:8088/Kinopremiera/index.m3u8
 http://45.159.74.22/Kinopremera/tracks-v1a1/mono.m3u8
 http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📽️ Кинозал", Кинопремьера
+http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Киносемья HD
+http://77.235.1.19:8000/play/a06a/index.m3u8
+#EXTINF:-1 group-title="📽️ Кинозал", Киносемья
 http://tvip.btk.teleos.ru:8081/chid517/tracks-v1a1/mono.m3u8
 http://178.212.71.253:8000/play/127/index.m3u8
 http://45.159.74.22/VipComedy/tracks-v1a1/mono.m3u8
 http://158.101.222.193:88/georgia_play.php?id=kinosemya
+#EXTINF:-1 group-title="📽️ Кинозал", Кинокомедия HD
+http://45.159.74.22/Kinokomedia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Кинокомедия
 http://178.212.71.253:8000/play/85/index.m3u8
 http://45.159.74.22/Kinokomedia/tracks-v1a1/mono.m3u8
@@ -608,9 +617,7 @@ https://autopilot.catcast.tv/content/41333/index.m3u8?password=promolive
 https://autopilot.catcast.tv/content/46209/index.m3u8?password=promolive
 #EXTINF:-1 group-title="📽️ Кинозал", Сити Эдем Христианский
 https://autopilot.catcast.tv/content/34246/index.m3u8?password=promolive
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📽️ Кинозал" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
+
 
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="📹 Русский кинозал",Родное кино
 http://80.245.95.243:8888/play/age988/index.m3u8
