@@ -166,6 +166,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Общероссийские" ,Россия 24
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia-24-pl7" group-title="📺 Общероссийские", Россия 24 (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24_7/variant.m3u8
 
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Общероссийские",Че
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
@@ -400,6 +403,8 @@ https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852ca
 http://45.159.74.22/Channel_125/tracks-v1a1/mono.m3u8
 http://31.210.208.171:8080/nst/index.m3u8?token=+W2MSER
 http://178.212.71.253:8000/play/100/index.m3u8
+#EXTINF:-1 group-title="📽️ Кинозал", Страшное HD
+http://185.26.157.3:8080/live/strashnoe_hd/mono.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Шокирующее
 http://stream-msk-06.ott.tricolor.tv/dtv/id280_MSKSG-PVR-1--Kinopokaz_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTgwOTc5NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ1MjA0OTk1LCJzZXNzaW9uX2lkIjoiZmIzMzM1NmQyNmM3OTQ5NTU4NmRkMmI3ZWY4Mjc0MzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.aFyzYCgM_oKjh2_Dg6FQYD6PyavjN_0NIUwZ6-lXrr0
 http://stream-msk-06.ott.tricolor.tv/dtv/id280_MSKSG-PVR-1--Kinopokaz_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc1NDI3NzE4NywiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzUzNjcyMzg3LCJzZXNzaW9uX2lkIjoiYjQ1ODgxYmFkZTYzYzYzMDZmNzQxYjBmNzhhMDAyYWIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.SRlFzRqXuoSDebs_khsLHrsvfnG3aKOkZ4pS6cLWijo
@@ -407,6 +412,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_1
 #EXTINF:-1 group-title="📽️ Кинозал", Шокирующее (+3)
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD1_3
 #EXTINF:-1 group-title="📽️ Кинозал", Scream
+http://158.160.149.81:8080/8229/index.m3u8
 http://stream-msk-14.ott.tricolor.tv/dtv/id895_MSKSG-PVR-1--Scream/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTgwOTc5NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ1MjA0OTk1LCJzZXNzaW9uX2lkIjoiZmIzMzM1NmQyNmM3OTQ5NTU4NmRkMmI3ZWY4Mjc0MzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.aFyzYCgM_oKjh2_Dg6FQYD6PyavjN_0NIUwZ6-lXrr0
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Scream
 #EXTINF:-1 group-title="📽️ Кинозал", КОШМАР
@@ -470,6 +476,7 @@ https://stream-msk-08.ott.tricolor.tv/dtv/id330_MSKSG-PVR-1--Kinopokaz/04/plst.m
 http://stream-msk-12.ott.tricolor.tv/dtv/id652_MSKSG-PVR-1--Kinopokaz_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
 #EXTINF:-1 group-title="📽️ Кинозал" tvg-logo="https://iptvx.one/picons/kino-tv.png",КиноТВ HD
+http://s1.merlive.am/kinotvhd/index.m3u8
 http://31.148.48.15/Kino_TV_HD/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КИНО ТВ.png" group-title="📽️ Кинозал",КИНО ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
@@ -477,6 +484,7 @@ http://31.148.48.15/Kino_TV/tracks-v1a1/mono.m3u8?token=default
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 http://178.212.71.253:8000/play/78/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", КиноТВ (+4)
+http://77.235.1.19:8000/play/a068/index.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinotvhd4
 #EXTINF:-1 group-title="📽️ Кинозал",tvg-logo="https://iptvx.one/picons/tvxxi.png",TV XXI
 http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER
@@ -584,8 +592,25 @@ http://178.217.72.66:8080/CineMan_Thriller/index.m3u8
 http://178.217.72.66:8080/CineMan_Top/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал",CineMan VHS HD
 http://178.217.72.66:8080/CineMan_VHS/index.m3u8
-
-
+#EXTINF:-1 group-title="📽️ Кинозал", Сити Эдем — Киноазия
+https://autopilot.catcast.tv/content/34393/index.m3u8?password=promolive
+#EXTINF:-1 group-title="📽️ Кинозал", Сити Эдем — Кинодок
+https://autopilot.catcast.tv/content/38354/index.m3u8?password=promolive
+#EXTINF:-1 group-title="📽️ Кинозал", Сити Эдем — Киноклассика
+https://autopilot.catcast.tv/content/34185/index.m3u8?password=promolive
+#EXTINF:-1 group-title="📽️ Кинозал", Сити Эдем — Киномистика 
+https://autopilot.catcast.tv/content/40783/index.m3u8?password=promolive
+#EXTINF:-1 group-title="📽️ Кинозал", Сити Эдем — Киносемья
+https://autopilot.catcast.tv/content/38128/index.m3u8?password=promolive
+#EXTINF:-1 group-title="📽️ Кинозал", Сити Эдем — Киноэкшен 
+https://autopilot.catcast.tv/content/41333/index.m3u8?password=promolive
+#EXTINF:-1 group-title="📽️ Кинозал", Сити Эдем — Теленовелла
+https://autopilot.catcast.tv/content/46209/index.m3u8?password=promolive
+#EXTINF:-1 group-title="📽️ Кинозал", Сити Эдем Христианский
+https://autopilot.catcast.tv/content/34246/index.m3u8?password=promolive
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📽️ Кинозал" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
 
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="📹 Русский кинозал",Родное кино
 http://80.245.95.243:8888/play/age988/index.m3u8
