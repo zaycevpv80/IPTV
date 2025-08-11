@@ -635,9 +635,6 @@ http://178.217.72.66:8080/Nashe_Novoe_Kino/index.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="📹 Русский кинозал",Viju TV1000 Русское 
 http://109.248.236.51/viju_tv1000_russkoe/mono.m3u8
 http://130.193.73.10:8937/play/a02u
-#EXTINF:0 tvg-id="" tvg-name="Yosso TV Русские Фильмы" tvg-logo="" group-title="📹 Русский кинозал" catchup="flussonic" catchup-days="3",Yosso TV Русские Фильмы
-#EXTGRP:📹 Русский кинозал
-http://vod.stb.tvime.ru/Yosso_TV_Rus_Film/video.m3u8?token=g4F645vc89fd
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="https://iptvx.one/picons/russkaya-komedia.png" group-title="📹 Русский кинозал",Комедия
 http://130.193.73.10:8937/play/a03k
 #EXTINF:-1 tvg-id="denpobedy" tvg-logo="https://iptvx.one/picons/denpobedy.png" group-title="📹 Русский кинозал",День Победы (HD)
