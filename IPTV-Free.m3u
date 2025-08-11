@@ -895,7 +895,7 @@ http://str6.oxtve.live:8080/KBC_western/mpegts
 http://str6.oxtve.live:8080/KBC_vidac/mpegts
 #EXTINF:-1 tvg-name="kbc-гай Ричи и Тарантино" group-title="Кинозалы KBC & Fresh",KBC-Гай Ричи и Тарантино
 http://str6.oxtve.live:8080/KBC_guyrichieandtarantino/mpegts
-#EXTINF:-1 tvg-name="kbc-гоблин" group-title="Кинозалы KBC & Fresh",KBC-Гоблин
+#EXTINF:-1 tvg-name="kbc-гоблин" group-title="Кинозалы KBC & Fresh",KBC-Coblin
 http://str6.oxtve.live:8080/KBC_goblin/mpegts
 #EXTINF:-1 tvg-name="kbc-драма tic" group-title="Кинозалы KBC & Fresh",KBC-Драма Tic
 http://str6.oxtve.live:8080/KBC_dramatic/mpegts
