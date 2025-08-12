@@ -932,7 +932,7 @@ http://str6.oxtve.live:8080/Fresh_Fantastic/mpegts
 http://str6.oxtve.live:8080/Fresh_Horror/mpegts
 #EXTINF:-1 tvg-name="fresh Kids" group-title="Кинозалы KBC & Fresh",Fresh Kids
 http://str6.oxtve.live:8080/Fresh_Kids/mpegts
-#EXTINF:-1 tvg-name="свежая премьера" group-title="Кинозалы KBC & Fresh",Свежая премьера
+#EXTINF:-1 tvg-name="свежая премьера" group-title="Кинозалы KBC & Fresh",Premiere
 http://str6.oxtve.live:8080/Fresh_Premiere/mpegts
 #EXTINF:-1 tvg-name="fresh rating" group-title="Кинозалы KBC & Fresh",Fresh Rating
 http://str6.oxtve.live:8080/Fresh_Rating/mpegts
