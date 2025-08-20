@@ -545,6 +545,8 @@ http://176.126.166.43:1935/live/312musik/chunklist_w1516016500.m3u8
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-logo="https://iptvx.one/picons/bollywood-hd.png" group-title="📽️ Кинозал",BollywooD HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bollywood
 http://130.193.73.10:8937/play/a02l
+#EXTINF:-1 group-title="📽️ Кинозал", Кино 18+ International
+https://autopilot.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1 tvg-logo="http://i120.fastpic.org/big/2022/0720/74/52a7882bf655f06a149bf9b06147dd74.png" tvg-id="Видеокасета VHS" group-title="📽️ Кинозал", Видеокасета VHS
 https://132544.edgevideo.ru/streams/132544_806129/1325441080/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", VHS-ка
