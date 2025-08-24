@@ -505,6 +505,7 @@ http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 group-title="📽️ Кинозал", Кинопоказ HD (+3)
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
 #EXTINF:-1 group-title="📽️ Кинозал" tvg-logo="https://iptvx.one/picons/kino-tv.png",КиноТВ HD
+https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
 http://31.148.48.15/Kino_TV_HD/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КИНО ТВ.png" group-title="📽️ Кинозал",КиноТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
