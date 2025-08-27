@@ -1240,23 +1240,56 @@ https://live.cmirit.ru:443/live/yubiley.stream/playlist.m3u8
 http://hls.kts42.ru:45125/pospelova/tracks-v1/index.m3u8
 
 
-
+#EXTINF:-1 group-title="Австралия 🇦🇺",Австралия 1
+https://stream.n1.au.swellnet.com/surfcams/margaret-river.stream/chunks.m3u8
+#EXTINF:-1 group-title="Австралия 🇦🇺",Австралия 2
+https://stream.n1.au.swellnet.com/surfcams/duranbah.stream/playlist.m3u8
+#EXTINF:-1 group-title="Австралия 🇦🇺",Австралия 3
+https://stream.n1.au.swellnet.com/surfcams/scarborough.stream/chunks.m3u8
+#EXTINF:-1 group-title="Австралия 🇦🇺",Австралия 4
+https://stream.n1.au.swellnet.com/surfcams/middleton-bay.stream/chunks.m3u8
+#EXTINF:-1 group-title="Австралия 🇦🇺",Австралия 5
+https://stream.n1.au.swellnet.com/surfcams/south-port.stream/chunks.m3u8
+#EXTINF:-1 group-title="Австралия 🇦🇺",Австралия 6
+https://stream.n1.au.swellnet.com/surfcams/shark-island.stream/playlist.m3u8
+#EXTINF:-1 group-title="Австралия 🇦🇺",Австралия 7
+https://hls.augrea.stream/coral/hls/stream.m3u8
+#EXTINF:-1 group-title="Австралия 🇦🇺",Австралия 8
+https://hls.augrea.stream/barron/hls/stream.m3u8
+#EXTINF:-1 group-title="Австрия  🇦🇹",Австрия - Saalbach TV
+https://livestream.saalbach.com/SaalbachTV/SaalbachTV_LiveStream.stream/playlist.m3u8
+#EXTINF:-1 group-title="Австрия  🇦🇹",Австрия 2
+https://5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4:camera3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Австрия  🇦🇹",Австрия 3
+https://5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4:camera4.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Австрия  🇦🇹",Австрия 4
 http://stream1.panocloud.com/KlagenfurtNeuerPlatz/KlagenfurtNeuerPlatz.stream/playlist.m3u8
 #EXTINF:-1 group-title="Бельгия 🇧🇪",Бельгия 3
 https://stream.agfa.be/hls/live.stream.m3u8
 #EXTINF:-1 group-title="Болгария 🇧🇬",Болгария
 http://old.rn-tv.com/live/stream.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",Болгария 7
-http://cams.pamporovo.me:1935/live/camera1.stream_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Болгария 🇧🇬",Болгария 8
-http://cams.pamporovo.me:1935/live/camera3.stream_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Болгария 🇧🇬",Болгария 3
 https://cdn1.webcams.bg:8080/hls/golden_ina.m3u8
 #EXTINF:-1 group-title="Болгария 🇧🇬",Болгария 4
 https://cdn1.webcams.bg:8080/hls/hotel_rodopi.m3u8
+#EXTINF:-1 group-title="Бельгия 🇧🇬",Болгария 6
+http://cams.pamporovo.me:1935/live/camera2.stream_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Болгария 7
+http://cams.pamporovo.me:1935/live/camera1.stream_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Болгария 8
+http://cams.pamporovo.me:1935/live/camera3.stream_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Бразилия 🇧🇷",Бразилия 1
 http://cameras.interaviation.com.br/camera01/interaviation1.m3u8
+#EXTINF:-1 group-title="Бразилия 🇧🇷",Бразилия 3
+https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Бразилия 🇧🇷",Бразилия 4
+https://5a8d73edc0407.streamlock.net/bnuaovivo/bnuipaovivo.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Бразилия 🇧🇷",Бразилия 5
+https://5a8d73edc0407.streamlock.net/bnuip20/bnuip2021.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Бразилия 🇧🇷",Бразилия 7
+https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20002.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Бразилия 🇧🇷",Бразилия 8
+https://5a8d73edc0407.streamlock.net/bnuip20/bnuip2005.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Великобритания 🇬🇧",Kidderminster 2
 http://89.16.164.68:80/SVR-Kidderminster-C2_094871/index.m3u8
 #EXTINF:-1 group-title="Великобритания 🇬🇧",Weather
@@ -1321,6 +1354,8 @@ http://maybach.railcam.co.uk:80/BishopsLydeard_59234/tracks-v1a1/mono.m3u8
 http://maybach.railcam.co.uk:80/BlueAnchor_68938/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Великобритания 🇬🇧", Пингвины
 http://stream.wildlifestreaming.io:1935/Marwell/marwell_penguin.stream/playlist.m3u8
+#EXTINF:-1 group-title="Венгрия 🇭🇺",Венгрия 4
+https://stream.idokep.hu/live/hotelvictoria/index.m3u8
 #EXTINF:-1 group-title="Венгрия 🇭🇺",Венгрия 6
 https://mms.iptv.unideb.hu/ipcam/ipcam.sport.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Германия 🇩🇪",Groemitz
@@ -1353,8 +1388,42 @@ https://corfulive.gr/Akron/Akron.m3u8
 https://corfulive.gr/akti_kontogialos/akti_kontogialos.m3u8
 #EXTINF:-1 group-title="Греция 🇬🇷",Греция 2
 https://corfulive.gr/OasisHotel/OasisHotel.m3u8
+#EXTINF:-1 group-title="Израиль 🇮🇱",Израиль - Стена Плача 2
+https://cdn.cast-tv.com/23595/Live_Kotel1_ABR/23595/Live_Kotel1_4K_1080p/playlist.m3u8
 #EXTINF:-1 group-title="Испания 🇪🇸",Испания 1
 https://5b8d2cbe62ad6.streamlock.net/live/spanje.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Испания 3
+http://streaming-camaras.ebd.csic.es/cams/cam10.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Испания 4
+http://streaming-camaras.ebd.csic.es/cams/cam13.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Испания 6
+http://streaming-camaras.ebd.csic.es/cams/cam02.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Испания 7
+http://streaming-camaras.ebd.csic.es/cams/cam03.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Испания 8
+http://streaming-camaras.ebd.csic.es/cams/cam05.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Испания 9
+http://streaming-camaras.ebd.csic.es/cams/cam06.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Испания 10
+http://streaming-camaras.ebd.csic.es/cams/cam07.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Испания 11
+http://streaming-camaras.ebd.csic.es/cams/cam08.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Испания 12
+http://streaming-camaras.ebd.csic.es/cams/cam14.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Испания 14
+http://streaming-camaras.ebd.csic.es/cams/cam11.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Испания 15
+http://streaming-camaras.ebd.csic.es/cams/cam19.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Испания 16
+http://streaming-camaras.ebd.csic.es/cams/cam18.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Испания 17
+http://streaming-camaras.ebd.csic.es/cams/cam15.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Испания 18
+http://streaming-camaras.ebd.csic.es/cams/cam16.m3u8
+#EXTINF:-1 group-title="Исландия 🇮🇸",Исландия 6
+https://bang.snerpa.is/live/live/flateyri.stream/playlist.m3u8
+#EXTINF:-1 group-title="Исландия 🇮🇸",Исландия 7
+https://bang.snerpa.is/live/live/Sundahofn.stream/playlist.m3u8
 #EXTINF:-1 group-title="Италия 🇮🇹",Италия 1
 http://cdn-003.whatsupcams.com/hls/it_caorle08.m3u8
 #EXTINF:-1 group-title="Италия 🇮🇹",Италия 6
@@ -1381,6 +1450,10 @@ https://ipcam.kz/cam6/tracks-v1/mono.m3u8
 https://ipcam.kz/cam7/tracks-v1/mono.m3u8
 #EXTINF:-1 group-title="Канада 🇨🇦",Canada 1
 http://5ddd47d64e730.streamlock.net:1935/ospreycam/ospreycam.stream/playlist.m3u8
+#EXTINF:-1 group-title="Канада 🇨🇦",Canada 2
+https://webvideo.mississauga.ca/StageWebcam/LiveStageWebcam.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Канада 🇨🇦",Canada 3
+https://webvideo.mississauga.ca/BalconyWebcam/LiveWebcam.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Киргизия 🇰🇬",Бишкек 4
 https://camera.ihlas.kg/stream/cam12/index.m3u8
 #EXTINF:-1 group-title="Киргизия 🇰🇬",Бишкек 6
@@ -1417,26 +1490,34 @@ http://s1.dcdn.lt/livecam/vl108.stream/chunklist.m3u8
 http://s1.dcdn.lt/livecam/vl147.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Люксембург" Люксембург
 http://wowza01.newmedia.lu:1935/cita/cita_a1/playlist.m3u8
-#EXTINF:-1 group-title="Нидерланды 🇳🇱",1
-http://5b8d2cbe62ad6.streamlock.net:1935/live/eernewoude.stream/playlist.m3u8
-#EXTINF:-1 group-title="Нидерланды 🇳🇱",25
-https://584b389d712f9.streamlock.net/live2/blokzijl2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Нидерланды 🇳🇱",22
-https://5b8d2cbe62ad6.streamlock.net/live/bontekoe.stream/playlist.m3u8
-#EXTINF:-1 group-title="Нидерланды 🇳🇱",16
-https://5b8d2cbe62ad6.streamlock.net/live/nes-waddenhaven.stream/playlist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱",2
+https://5d881567b7568.streamlock.net/live/Slechtvalk1Buiten.stream/playlist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱",4
+https://5d881567b7568.streamlock.net/live/Kerkuil1Binnen.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱",5
+https://5d881567b7568.streamlock.net/live/Torenvalk3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱",6
+https://5d881567b7568.streamlock.net/live/Kerkuil1Buiten.stream/playlist.m3u8
 #EXTINF:-1 group-title="Нидерланды 🇳🇱",7
 https://5b8d2cbe62ad6.streamlock.net/live/vlissingen4.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Нидерланды 🇳🇱",28
-https://5b8d2cbe62ad6.streamlock.net/live/zwartsluis.stream/playlist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱",8
+https://5d881567b7568.streamlock.net/live/Steenuil2Binnen.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Нидерланды 🇳🇱",Морские котики
 https://6162417352ffd.streamlock.net/live/ecomare.stream/playlist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱",16
+https://5b8d2cbe62ad6.streamlock.net/live/nes-waddenhaven.stream/playlist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱",17
+https://5d881567b7568.streamlock.net/live/Torenvalk3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱",22
+https://5b8d2cbe62ad6.streamlock.net/live/bontekoe.stream/playlist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱",23
+https://5d881567b7568.streamlock.net/live/Torenvalk2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱",24
+https://5d881567b7568.streamlock.net/live/Dras.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱",25
+https://584b389d712f9.streamlock.net/live2/blokzijl2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Нидерланды 🇳🇱",26
 https://jwwcam2.movingmedia.eu/hls/live.stream.m3u8
-#EXTINF:-1 group-title="Нидерланды 🇳🇱", Нидерланды 1
-https://5b8d2cbe62ad6.streamlock.net/live/eernewoude.stream/playlist.m3u8
-#EXTINF:-1 group-title="Нидерланды 🇳🇱", Нидерланды 9
-https://5b8d2cbe62ad6.streamlock.net/live/zaandam.stream/playlist.m3u8
 #EXTINF:-1 group-title="Польша 🇵🇱", - Cracow 1
 http://hoktastream2.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/playlist.m3u8
 #EXTINF:-1 group-title="Польша 🇵🇱", - Myslenice
@@ -1499,6 +1580,8 @@ https://stream.arkomnet.eu/wgjaz/index.m3u8
 https://stream.arkomnet.eu/zabnica/index.m3u8
 #EXTINF:-1 group-title="Польша 🇵🇱",3
 https://stream.mazury24.eu/mosir-elblag/index.m3u8
+#EXTINF:-1 group-title="Румыния 🇷🇴",4
+https://5e71c29dc7c8d.streamlock.net/wildliferomania2/live.stream_aac/chunklist.m3u8
 #EXTINF:-1 group-title="Сербия 🇷🇸",Сербия 2
 https://stream5.infokop.net:1443/live_cameras/camera_1/playlist.m3u8
 #EXTINF:-1 group-title="Сербия 🇷🇸",Сербия 1
@@ -1729,6 +1812,14 @@ http://live.idnes.cz/slow/zoobrno/playlist.m3u8
 http://live.idnes.cz/slow/krmitkousa_720p/playlist.m3u8
 #EXTINF:-1 group-title="Хорватия 🇭🇷",Хорватия 1
 http://cdn-006.whatsupcams.com/hls/hr_kastel1.m3u8
+#EXTINF:-1 group-title="Хорватия 🇭🇷",Хорватия 2
+https://cdn-006.whatsupcams.com/hls/hr_svetvincenat01.m3u8
+#EXTINF:-1 group-title="Хорватия 🇭🇷",Хорватия 4
+https://cdn-002.whatsupcams.com/hls/hr_brsec01.m3u8
+#EXTINF:-1 group-title="Хорватия 🇭🇷",Хорватия 6
+https://cdn-002.whatsupcams.com/hls/hr_promajna01.m3u8
+#EXTINF:-1 group-title="Хорватия 🇭🇷",Хорватия 7
+https://cdn-004.whatsupcams.com/hls/hr_buildpetrinja03.m3u8
 #EXTINF:-1 group-title="Эстония 🇪🇪",Талин (4K)
 http://83.166.53.184:8080/index.m3u8
 #EXTINF:-1 group-title="Эстония 🇪🇪",Талин 1
