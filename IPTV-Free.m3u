@@ -431,10 +431,12 @@ http://45.159.74.22/Channel_125/tracks-v1a1/mono.m3u8
 http://31.210.208.171:8080/nst/index.m3u8?token=+W2MSER
 http://178.212.71.253:8000/play/100/index.m3u8
 http://178.217.72.66:8080/NSTV/index.m3u8
+http://dmi3y-tv.ru/hls/CH_NST.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Страшное HD
 http://185.26.157.3:8080/live/strashnoe_hd/mono.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Шокирующее HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_1
+http://dmi3y-tv.ru/hls/CH_SHOKIRUYUSHEEHD.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Scream HD
 http://158.160.149.81:8080/8229/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Сити Эдем — Киномистика 
