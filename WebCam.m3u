@@ -1272,7 +1272,7 @@ http://old.rn-tv.com/live/stream.m3u8
 https://cdn1.webcams.bg:8080/hls/golden_ina.m3u8
 #EXTINF:-1 group-title="Болгария 🇧🇬",Болгария 4
 https://cdn1.webcams.bg:8080/hls/hotel_rodopi.m3u8
-#EXTINF:-1 group-title="Бельгия 🇧🇬",Болгария 6
+#EXTINF:-1 group-title="Болгария 🇧🇬",Болгария 6
 http://cams.pamporovo.me:1935/live/camera2.stream_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Болгария 🇧🇬",Болгария 7
 http://cams.pamporovo.me:1935/live/camera1.stream_720p/chunklist.m3u8
