@@ -20,6 +20,8 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/va
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Общероссийские"  tvg-logo="http://epg.it999.ru/img/146.png",Первый канал (+4)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="pervy-pl4" group-title="📺 Общероссийские" Первый канал HD (+4)
+http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTcyOTA1ODAsImlhdCI6MTc1NzIwNDE4MCwiY2lkIjo2LCJ1aWQiOjk0MzE0NjQ0NCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.JvGb7orxqhhuQ7j0cHVGNl1iptgeaeHxax3xoQ6HBcM&offset=3
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Общероссийские" tvg-logo="http://epg.it999.ru/img/146.png",Первый канал (+5)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_UUDE_1TV_ULAN/variant.m3u8
@@ -41,6 +43,8 @@ https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
 https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="📺 Общероссийские" tvg-logo="http://epg.it999.ru/img/711.png",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="rossia1" group-title="📺 Общероссийские", Россия 1 HD
+http://api.peers.tv/timeshift/russiahd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTcyOTA1ODAsImlhdCI6MTc1NzIwNDE4MCwiY2lkIjo2LCJ1aWQiOjk0MzE0NjQ0NCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.JvGb7orxqhhuQ7j0cHVGNl1iptgeaeHxax3xoQ6HBcM&offset=3
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Общероссийские"  tvg-logo="http://epg.it999.ru/img/711.png",Россия 1
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
@@ -72,6 +76,8 @@ https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="📺 Общероссийские" tvg-logo="http://loganet.ru/images/channels/NTV-HD.png", НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="ntv" group-title="📺 Общероссийские", НТВ HD
+http://api.peers.tv/timeshift/ntv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTcyOTA1ODAsImlhdCI6MTc1NzIwNDE4MCwiY2lkIjo2LCJ1aWQiOjk0MzE0NjQ0NCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.JvGb7orxqhhuQ7j0cHVGNl1iptgeaeHxax3xoQ6HBcM&offset=3
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Общероссийские",НТВ
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
@@ -93,6 +99,8 @@ http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
 
 #EXTINF:-1 group-title="📺 Общероссийские", Рен ТВ HD
 http://178.217.72.66:8080/REN_TV/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="rentv" group-title="📺 Общероссийские", Рен ТВ HD
+http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTcyOTA1ODAsImlhdCI6MTc1NzIwNDE4MCwiY2lkIjo2LCJ1aWQiOjk0MzE0NjQ0NCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.JvGb7orxqhhuQ7j0cHVGNl1iptgeaeHxax3xoQ6HBcM&offset=3
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Общероссийские",Рен ТВ
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
@@ -1174,7 +1182,9 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tonus
 #EXTINF:-1 tvg-id="usadba" tvg-logo="https://iptvx.one/picons/usadba.png" group-title="🌏 Познавательные",Усадьба
 http://194.158.218.123:8880/Usadba/index.m3u8
 #EXTINF:-1 tvg-id="tlc" group-title="🌏 Познавательные", TLC Россия HD
-http://s1.merlive.am/tlc/index.m3u8
+http://45.159.74.22/TLC/mono.m3u8
+#EXTINF:-1 tvg-id="tlc" group-title="🌏 Познавательные", TLC
+http://178.217.72.66:8080/TLC_Russia_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные" tvg-id="" tvg-logo="http://epg.it999.ru/img2/614.png",Кухня ТВ
 http://45.159.74.22/KukhnyaTv/tracks-v1a1/mono.m3u8
 
