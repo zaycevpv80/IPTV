@@ -20,8 +20,8 @@ https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/va
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Общероссийские"  tvg-logo="http://epg.it999.ru/img/146.png",Первый канал (+4)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
-#EXTINF:-1 tvg-id="pervy" tvg-logo="http://i122.fastpic.org/big/2023/0704/13/cd5a5508b20da12d6131cafd8eb23513.png" group-title="📺 Общероссийские", Первый канал HD (+4)
-http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTcyOTA1ODAsImlhdCI6MTc1NzIwNDE4MCwiY2lkIjo2LCJ1aWQiOjk0MzE0NjQ0NCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.JvGb7orxqhhuQ7j0cHVGNl1iptgeaeHxax3xoQ6HBcM&offset=3
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="pervy-pl4" group-title="📺 Общероссийские", Первый канал HD (+4)
+http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTczNzE1ODAsImlhdCI6MTc1NzI4NTE4MCwiY2lkIjo2LCJ1aWQiOjk0MzM4MDc1MywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.S3LvnIXAFAsg0w83HDhAaJJZ0m0T328bJhYNKkxZga8&offset=3
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Общероссийские" tvg-logo="http://epg.it999.ru/img/146.png",Первый канал (+5)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_UUDE_1TV_ULAN/variant.m3u8
