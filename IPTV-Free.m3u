@@ -846,7 +846,6 @@ http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 #EXTINF:-1 group-title="👶 Детские", Мамонтëнок ТВ
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="👶 Детские", Мультиландия
-http://130.193.73.10:8937/play/a00z
 http://77.235.1.19:8000/play/a04b/index.m3u8
 #EXTINF:-1 group-title="👶 Детские",Мультиландия HD
 #EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
