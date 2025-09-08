@@ -886,22 +886,15 @@ https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС Kids.png" group-title="👶 Детские",СТС Kids
 #EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
 http://178.212.71.253:8000/play/112/index.m3u8
-#EXTINF:-1 tvg-id="sts-kids-hd" tvg-logo="https://iptvx.one/picons/sts-kids-hd.png" group-title="👶 Детские",СТС Kids
-http://195.26.83.96:7006/play/a00z/index.m3u8
 #EXTINF:-1 group-title="👶 Детские",СТС Kids HD
 #EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
 http://31.148.48.15/STS_Kids_HD/index.m3u8
 #EXTINF:-1 tvg-id="detsky" tvg-logo="https://iptvx.one/picons/unikum.png" group-title="👶 Детские",Уникум
 http://130.193.73.10:8937/play/a015
-#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="👶 Детские" tvg-logo="https://karnei4.github.io/convert/logo-z/9925717e1a1863cc5284e5fd699be05f.png" tvg-id="Disney Channel",Disney Channel
-#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="👶 Детские" tvg-logo="https://karnei4.github.io/convert/logo-z/b61f8a5d391552467977558b8d131d1e.png" tvg-id="Disney Channel (+7)",Disney Channel (+7)
-#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="👶 Детские",СОЛНЦЕ
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="👶 Детские",СОЛНЦЕ (+2)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
@@ -911,6 +904,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="👶 Детские",СОЛНЦЕ (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 group-title="👶 Детские", Карусель International 
 https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="👶 Детские",Карусель
