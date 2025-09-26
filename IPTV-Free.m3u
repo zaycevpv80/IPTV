@@ -798,7 +798,15 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist
 #EXTINF:-1 group-title="📼 Сериалы" tvg-logo="https://iptvx.one/picons/foxlife.png",Fox Life
 http://188.237.47.212:6008
 
-
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="4K Каналы" tvg-logo="https://karnei4.github.io/convert/logo-z/ffd848f1f125cd8013f23541ad191550.png" tvg-id="Ultra HD Cinema",Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="4K Каналы" tvg-logo="https://karnei4.github.io/convert/logo-z/fd17791e9f766209bd3183d67ac94cfc.png" tvg-id="Ultra Rex UHD",Ultra Rex UHD
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="4K Каналы" tvg-logo="https://karnei4.github.io/convert/logo-z/5f294633b54e0703b8f1be45988d3e80.png" tvg-id="Наша Сибирь 4K",Наша Сибирь 4K
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
 
 #EXTINF:-0 tvg-id="no_epg_cinema" group-title="👶 Детские" tvg-logo="https://i.postimg.cc/YS90VJYX/image.png",МУЛЬТИКИ И СКАЗКИ
 https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
@@ -1179,8 +1187,6 @@ http://176.107.219.20:9000/play/a009/index.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tonus
 #EXTINF:-1 tvg-id="usadba" tvg-logo="https://iptvx.one/picons/usadba.png" group-title="🌏 Познавательные",Усадьба
 http://194.158.218.123:8880/Usadba/index.m3u8
-#EXTINF:-1 tvg-id="tlc" group-title="🌏 Познавательные", TLC Россия HD
-http://45.159.74.22/TLC/mono.m3u8
 #EXTINF:-1 tvg-id="tlc" group-title="🌏 Познавательные", TLC
 http://178.217.72.66:8080/TLC_Russia_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные" tvg-id="" tvg-logo="http://epg.it999.ru/img2/614.png",Кухня ТВ
