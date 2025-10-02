@@ -1190,7 +1190,7 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tonus
 http://194.158.218.123:8880/Usadba/index.m3u8
 #EXTINF:-1 tvg-id="tlc" group-title="🌏 Познавательные", TLC
 http://178.217.72.66:8080/TLC_Russia_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC HD" tvg-logo="" group-title="🌏 Познавательные",TLC HD
+#EXTINF:-1 tvg-id="tlc" group-title="🌏 Познавательные",TLC HD
 http://5.188.159.128:8070/TLC/index.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные" tvg-id="" tvg-logo="http://epg.it999.ru/img2/614.png",Кухня ТВ
 http://45.159.74.22/KukhnyaTv/tracks-v1a1/mono.m3u8
