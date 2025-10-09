@@ -598,36 +598,6 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_2
 http://77.235.1.19:8000/play/a051/index.m3u8
 
 
-#EXTINF:-1  group-title="📽️ Кинозалы 1",IPTVPLAY ФАНТАСТИКА HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv0DWZhmYKJR1ZSb2Hr3grFI/m3u8
-#EXTINF:-1 tvg-logo="https://iptv-play.ru/channels/all_icons/6823.png" group-title="📽️ Кинозалы 1",IPTVPLAY ИНТЕРНЫ
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1pPDj1nUkwwvBX3q9jnnMs/m3u8
-#EXTINF:-1 group-title="📽️ Кинозалы 1",IPTVPLAY МУЛЬТСКАЗКИ HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv6g1x969E10nKP-tiqxPdJQ/m3u8
-#EXTINF:-1 group-title="📽️ Кинозалы 1",IPTVPLAY ПАМЯТЬ HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv808kjmqoH7ZgsfHtdlJxog/m3u8
-#EXTINF:-1  group-title="📽️ Кинозалы 1",IPTVPLAY УЖАСТИК HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv00bneXjPKOEur-OTTYsPIs/m3u8
-#EXTINF:-1 group-title="📽️ Кинозалы 1",IPTVPLAY ВЕДЬМАК HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3F-Q_PTmZVmp3vq8tnL9jQ/m3u8
-#EXTINF:-1 tvg-logo="https://iptv-play.ru/channels/all_icons/10851.png" group-title="📽️ Кинозалы 1",IPTVPLAY Великая Отечественная HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1oSoYiDdFV7V52_6UyzNiQ/m3u8
-#EXTINF:-1 group-title="📽️ Кинозалы 1",CPS Action HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvzEj2x0XEeMI6rA045IV93A/m3u8
-#EXTINF:-1 group-title="📽️ Кинозалы 1", CPS Comedy HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv5i3KKRDEFclwXgMvoGvE-4/m3u8
-#EXTINF:-1 xui-id="10458" tvg-id="" tvg-name="CPS Drama HD" tvg-logo="" group-title="📽️ Кинозалы 1",CPS Drama HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3e-t54Tj6uyfr4aP26ytbo/m3u8
-#EXTINF:-1 xui-id="10459" tvg-id="" tvg-name="CPS Fresh HD" tvg-logo="" group-title="📽️ Кинозалы 1",CPS Fresh HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv_9pVu8efkn4HIQtrjD45q8/m3u8
-#EXTINF:-1 xui-id="10460" tvg-id="" tvg-name="CPS Investigation" tvg-logo="" group-title="📽️ Кинозалы 1",CPS Investigation
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv7iBjd1FcvqzGdB3i5BKWl8/m3u8
-#EXTINF:-1 xui-id="10461" tvg-id="" tvg-name="CPS Jackie Chan HD" tvg-logo="" group-title="📽️ Кинозалы 1",CPS Jackie Chan HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv-A1Vmz5q9x_RISxlXByrhs/m3u8
-#EXTINF:-1 xui-id="10462" tvg-id="" tvg-name="CPS Mix HD" tvg-logo="" group-title="📽️ Кинозалы 1",CPS Mix HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4sDkjGT2MqRJIdRvEfHtFA/m3u8
-#EXTINF:-1 xui-id="10463" tvg-id="" tvg-name="CPS Cartoon HD" tvg-logo="" group-title="📽️ Кинозалы 1",CPS Cartoon HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv_VcLQAzF4jIzyOcCmtICI4/m3u8
 #EXTINF:-1 xui-id="10464" tvg-id="" tvg-name="MM Скорость HD" tvg-logo="" group-title="📽️ Кинозалы 1",MM Скорость HD
 http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4QZFqoSHwsiXQK62f-XB84/m3u8
 #EXTINF:-1 xui-id="10465" tvg-id="" tvg-name="Paradise HD" tvg-logo="" group-title="📽️ Кинозалы 1",Paradise HD
@@ -766,6 +736,36 @@ http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4i_UMevRTmdTutADtGVFu8/m3u8
 http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvya6fzR2BgJ4U4NYkUQffHs/m3u8
 #EXTINF:-1 group-title="📽️ Кинозалы 1",Fresh Soviet
 http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv2y6gWxSU1Sy_MlHGiaYpTE/m3u8
+#EXTINF:-1  group-title="📽️ Кинозалы 1",IPTVPLAY ФАНТАСТИКА HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv0DWZhmYKJR1ZSb2Hr3grFI/m3u8
+#EXTINF:-1 tvg-logo="https://iptv-play.ru/channels/all_icons/6823.png" group-title="📽️ Кинозалы 1",IPTVPLAY ИНТЕРНЫ
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1pPDj1nUkwwvBX3q9jnnMs/m3u8
+#EXTINF:-1 group-title="📽️ Кинозалы 1",IPTVPLAY МУЛЬТСКАЗКИ HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv6g1x969E10nKP-tiqxPdJQ/m3u8
+#EXTINF:-1 group-title="📽️ Кинозалы 1",IPTVPLAY ПАМЯТЬ HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv808kjmqoH7ZgsfHtdlJxog/m3u8
+#EXTINF:-1  group-title="📽️ Кинозалы 1",IPTVPLAY УЖАСТИК HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv00bneXjPKOEur-OTTYsPIs/m3u8
+#EXTINF:-1 group-title="📽️ Кинозалы 1",IPTVPLAY ВЕДЬМАК HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3F-Q_PTmZVmp3vq8tnL9jQ/m3u8
+#EXTINF:-1 tvg-logo="https://iptv-play.ru/channels/all_icons/10851.png" group-title="📽️ Кинозалы 1",IPTVPLAY Великая Отечественная HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1oSoYiDdFV7V52_6UyzNiQ/m3u8
+#EXTINF:-1 group-title="📽️ Кинозалы 1",CPS Action HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvzEj2x0XEeMI6rA045IV93A/m3u8
+#EXTINF:-1 group-title="📽️ Кинозалы 1", CPS Comedy HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv5i3KKRDEFclwXgMvoGvE-4/m3u8
+#EXTINF:-1 xui-id="10458" tvg-id="" tvg-name="CPS Drama HD" tvg-logo="" group-title="📽️ Кинозалы 1",CPS Drama HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3e-t54Tj6uyfr4aP26ytbo/m3u8
+#EXTINF:-1 xui-id="10459" tvg-id="" tvg-name="CPS Fresh HD" tvg-logo="" group-title="📽️ Кинозалы 1",CPS Fresh HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv_9pVu8efkn4HIQtrjD45q8/m3u8
+#EXTINF:-1 xui-id="10460" tvg-id="" tvg-name="CPS Investigation" tvg-logo="" group-title="📽️ Кинозалы 1",CPS Investigation
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv7iBjd1FcvqzGdB3i5BKWl8/m3u8
+#EXTINF:-1 xui-id="10461" tvg-id="" tvg-name="CPS Jackie Chan HD" tvg-logo="" group-title="📽️ Кинозалы 1",CPS Jackie Chan HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv-A1Vmz5q9x_RISxlXByrhs/m3u8
+#EXTINF:-1 xui-id="10462" tvg-id="" tvg-name="CPS Mix HD" tvg-logo="" group-title="📽️ Кинозалы 1",CPS Mix HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4sDkjGT2MqRJIdRvEfHtFA/m3u8
+#EXTINF:-1 xui-id="10463" tvg-id="" tvg-name="CPS Cartoon HD" tvg-logo="" group-title="📽️ Кинозалы 1",CPS Cartoon HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv_VcLQAzF4jIzyOcCmtICI4/m3u8
 #EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/kinoazija_logotip.png" tvg-id="cityedem-kinoazia" group-title="📽️ Кинозалы 1", Сити Эдем - КиноАзия
 https://cityeden.catcast.tv/content/34393/index.m3u8
 https://autopilot.catcast.tv/content/34393/index.m3u8?password=promolive
@@ -804,7 +804,7 @@ https://cityeden.catcast.tv/content/46421/index.m3u8
 https://cityeden.catcast.tv/content/47515/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_medzdrav1.png" tvg-id="no_epg_cinema" group-title="📽️ Кинозалы 1", Сити Эдем - МедЗдрав
 https://cityeden.catcast.tv/content/47519/index.m3u8
-#EXTINF:-1 group-title="📽️ Кинозалы 1", Сити Эдем — Киносемья
+#EXTINF:-1 group-title="📽️ Кинозалы 1", Сити Эдем — КиноСемья
 https://autopilot.catcast.tv/content/38128/index.m3u8?password=promolive
 #EXTINF:-1 group-title="📽️ Кинозалы 1", Сити Эдем Христианский
 https://autopilot.catcast.tv/content/34246/index.m3u8?password=promolive
