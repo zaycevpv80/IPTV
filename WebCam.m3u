@@ -14,15 +14,15 @@ http://krkvideo1.orionnet.online/cam1470/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Астрахань.Ru TV.png" group-title="Россия 🇷🇺",Астрахань.Ru TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
-#EXTINF:-1 group-title="Россия 🇷🇺", Astrakhan 5
+#EXTINF:-1 group-title="Россия 🇷🇺", Астрахань 5
 http://dvr2.astrakhan.ru/yabl-36-hd-1/index.m3u8
-#EXTINF:-1 group-title="Россия 🇷🇺", Astrakhan 8
+#EXTINF:-1 group-title="Россия 🇷🇺", Астрахань 8
 http://dvr.astrakhan.ru/kir-19-hd-2/index.m3u8
-#EXTINF:-1 group-title="Россия 🇷🇺", Astrakhan 2
+#EXTINF:-1 group-title="Россия 🇷🇺", Астрахань 2
 http://dvr.astrakhan.ru/kuli-46-hd-1/index.m3u8
-#EXTINF:-1 group-title="Россия 🇷🇺", Astrakhan 9
+#EXTINF:-1 group-title="Россия 🇷🇺", Астрахань 9
 https://dvr.astrakhan.ru/yabl-1v-hd-1/index.m3u8
-#EXTINF:-1 group-title="Россия 🇷🇺", Astrakhan 1
+#EXTINF:-1 group-title="Россия 🇷🇺", Астрахань 1
 https://dvr2.astrakhan.ru/magi-30-hd-1/tracks-v1/mono.m3u8
 #EXTINF:-1 group-title="Россия 🇷🇺",Барнаул 5
 https://live.katun24.ru:8082/belokyr_cerkovka/tracks-v1/mono.m3u8
